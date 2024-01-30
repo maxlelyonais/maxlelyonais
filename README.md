@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hao xu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hao xu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hao-xu-031289223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hao xu" height="30" width="40" /></a>
 <a href="https://kaggle.com/maxlelyonais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="maxlelyonais" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/maxlelyonais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maxlelyonais" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/superhao89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maxlelyonais" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
