@@ -1,6 +1,6 @@
-[![MasterHead](https://img.freepik.com/free-vector/artificial-intelligence-concept-facebook-post_23-2150394426.jpg?w=1800&t=st=1706630959~exp=1706631559~hmac=aa71456f232886f93f9175aa832d78d1760e874369e25431a05c546b932c4380)]
+![MasterHead](https://img.freepik.com/free-vector/artificial-intelligence-concept-facebook-post_23-2150394426.jpg?w=1800&t=st=1706630959~exp=1706631559~hmac=aa71456f232886f93f9175aa832d78d1760e874369e25431a05c546b932c4380)
 <h1 align="center">Hi 👋, I'm Hao</h1>
-<h3 align="center">As a backend developer, data analyst, and AI enthusiast, I maintain a profound interest in the latest technological advancemehttps</h3>
+<h3 align="center">As a backend developer, data analyst, and AI enthusiast, I maintain a profound interest in the latest technological advancements</h3>
 <img align = "right" alt = "Coding" width = "400" src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlhdWdqOWY3MTBtbWxnM2txazBpem10ZjJleG1tN21xeTZlemF3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
